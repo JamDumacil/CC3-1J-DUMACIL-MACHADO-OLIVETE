@@ -3,7 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/m304user/Documents/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Test/TestCharacter.java</file>
+            <file>file:/Volumes/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Test/TestCharacter.java</file>
+            <file>file:/Volumes/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Test/CharacterDuel.java</file>
+            <file>file:/Volumes/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Character/Character.java</file>
+            <file>file:/Volumes/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Item/Dice.java</file>
+            <file>file:/Volumes/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Item/Weapon.java</file>
+            <file>file:/Volumes/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Character/Kikiam.java</file>
+            <file>file:/Volumes/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Item/Armor.java</file>
+            <file>file:/Volumes/CC3-1J-MACHADO-OLIVETE-DUMACIL/RPG/src/Character/Wizard.java</file>
         </group>
     </open-files>
 </project-private>
